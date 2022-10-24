@@ -1,3 +1,3 @@
 apt-get update -y && apt-get upgrade -y
 apt install curl -y
-bash <(curl -Ls https://github.com/sysmrk/v2ray/install.sh)
+bash <(curl -Ls https://github.com/sysmrk/X-UI-v2ray/install.sh)
